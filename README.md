@@ -3,7 +3,7 @@
 - I’m currently learning CSP AP
 - How to reach me melis.peker@hisarschool.k12.tr
 - I completed CS50's Understanding Technology course
-- My website
+- My websitel
 
 
 <!---
